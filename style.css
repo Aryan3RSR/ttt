@@ -1,0 +1,22 @@
+.main{
+    font-family:Calibri;
+}
+body{
+    text-align:center;
+    font-size:22;
+    background-color: black;
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family: Calibri;
+    color: white;
+    
+}
+.ques{
+    font-family:Calibri;
+}
+.class{
+    font-size:13;
+}
+button{
+    border-radius: 12px;
+}
